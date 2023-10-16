@@ -7,6 +7,7 @@ Spring Boot Frameworkの自習学習
 このプロジェクトは、Spring Bootを使って簡単なアプリケーションを作ってみるプロジェクトです。
 Spring Boot Frameworkを使用して、簡単なアプリケーションを作ることで、
 広くて浅くSpringを体験してみることを目指しています。
+(WEB MVC , TDD , AOP ) 
 
 ## 使用言語とツール
 
